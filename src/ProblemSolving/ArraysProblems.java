@@ -63,5 +63,6 @@ public class ArraysProblems {
 //		System.out.println(Arrays.toString(sortArray(arr)));
 		mergeArr(arr,arr1);
 
+		System.out.println("sdfghjk");
 }
 }
